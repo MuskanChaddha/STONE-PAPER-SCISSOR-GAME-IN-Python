@@ -1,5 +1,11 @@
 # STONE-PAPER-SCISSOR-GAME-IN-Python
-
+ In the stone paper scissor game certain rules to follow
+ RULE 1 => STONE vs PAPER then PAPER Wins
+ RULE 2 => STONE vs SCISSOR then STONE wins
+ RULE 3 => PAPER vs SCISSOR then SCISSOR Wins 
+ 
+ The game will be played against the computer .  
+ 
 # NOTE: If you have Anaconda installed then open "conda prompt". Then:
  type "pip install  playsound" type "pip install pysttx3 " in the cmd
 
@@ -22,4 +28,17 @@
 
 
 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
