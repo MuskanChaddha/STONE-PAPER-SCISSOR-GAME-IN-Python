@@ -152,11 +152,6 @@ engine.say("END OF THE GAME")
 engine.say("Thank You {} For Playing ".format(username))
 playsound.playsound(r"F:\iMac_Startup_Chime-Carlo_-1849294605.mp3")
 
-t=time.localtime()
-y = t.tm_year
-m = t.tm_mon
-d = t.tm_mday
-print("The Game Ended at {}:{}".format(t.tm_min,t.tm_sec),end="")
-print(" & on {}-{}-{} \nTime Zone Is {}".format(d,m,y,t.tm_zone))
+print("The Game Ended at ",time.asctime(time.localtime(time.time())))
 
 engine.runAndWait()
