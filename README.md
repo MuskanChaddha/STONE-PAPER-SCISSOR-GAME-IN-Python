@@ -17,9 +17,9 @@
    Open Pycharm and set the path of Interpreter As select Path as anaconda python interprter
 	 Open command prompt as administrator
    if file saved at differnt location then change directory to that folder (cd directory-full-path)
-   pip install -r requirements.txt (it will install all the required modules)
-   type "pip install  playsound" type "pip install pysttx3 " in the cmd
-	 (for linux use sudo pip install -r requirements.txt)
+   pip install -r requirements.txt (it will install all the required modules)(for linux use sudo pip install -r requirements.txt)
+   type "pip install  playsound" and  type "pip install pysttx3 " in the cmd
+	
    follow instructions
 	 
 	 After Open pycharm After installation of all conda files
