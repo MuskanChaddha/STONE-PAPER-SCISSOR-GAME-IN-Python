@@ -7,7 +7,7 @@
  The game will be played against the computer .  
  
 # NOTE: If you have Anaconda installed then open "conda prompt". Then:
- type "pip install  playsound" type "pip install pysttx3 " in the cmd
+  type "pip install -r requirements.txt"
 
 # How to Run ?
    Make sure you have python installed
@@ -18,7 +18,7 @@
 	 Open command prompt as administrator
    if file saved at differnt location then change directory to that folder (cd directory-full-path)
    pip install -r requirements.txt (it will install all the required modules)
-   
+   type "pip install  playsound" type "pip install pysttx3 " in the cmd
 	 (for linux use sudo pip install -r requirements.txt)
    follow instructions
 	 
