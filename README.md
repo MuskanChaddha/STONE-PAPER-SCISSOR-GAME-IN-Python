@@ -7,7 +7,7 @@
  The game will be played against the computer .  
  
 # NOTE: If you have Anaconda installed then open "conda prompt". Then:
-  type "pip install -r requirements.txt"
+   type "pip install -r requirements.txt"
 
 # How to Run ?
    Make sure you have python installed
