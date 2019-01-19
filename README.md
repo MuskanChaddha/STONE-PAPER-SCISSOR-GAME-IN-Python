@@ -24,7 +24,7 @@
 	 
 	 After Open pycharm After installation of all conda files
 	 either right click  and run  Stone_paper_scissor.py or use shortcut as ctr+shift+f10 to run Stone_paper_scissor.py
-   finally press 'Y' or Y to exit from the window
+   finally press 'N' or 'n' to exit from the window
 
 
 
